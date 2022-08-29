@@ -1,6 +1,6 @@
 FROM php:8.0-fpm
 
-# Set working directoryyyyyy
+# Set working directoryyyyyyy
 WORKDIR /var/www
 
 # Add docker php ext repo
